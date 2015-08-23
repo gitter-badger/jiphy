@@ -1,6 +1,8 @@
 ![jiphy](https://raw.github.com/timothycrosley/jiphy/master/logo.png)
 =====
 
+[![Join the chat at https://gitter.im/timothycrosley/jiphy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/timothycrosley/jiphy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![PyPI version](https://badge.fury.io/py/jiphy.png)](http://badge.fury.io/py/jiphy)
 [![Build Status](https://travis-ci.org/timothycrosley/jiphy.png?branch=master)](https://travis-ci.org/timothycrosley/jiphy)
 [![Coverage Status](https://coveralls.io/repos/timothycrosley/jiphy/badge.svg?branch=develop&service=github)](https://coveralls.io/github/timothycrosley/jiphy?branch=develop)
